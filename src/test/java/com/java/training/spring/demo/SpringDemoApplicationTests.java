@@ -1,4 +1,4 @@
-package com.java.training.spring.spring_demo;
+package com.java.training.spring.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package com.java.training.spring.spring_demo.service;
+package com.java.training.spring.demo.service;
 
-import com.java.training.spring.spring_demo.model.User;
+import com.java.training.spring.demo.model.User;
 import org.springframework.stereotype.Service;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicLong;

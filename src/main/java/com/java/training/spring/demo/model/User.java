@@ -1,4 +1,4 @@
-package com.java.training.spring.spring_demo.model;
+package com.java.training.spring.demo.model;
 
 public class User {
     private Long id;

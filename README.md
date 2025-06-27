@@ -5,7 +5,7 @@ A Spring Boot application demonstrating REST APIs using in-memory collections.
 ## Project Structure
 
 ```
-src/main/java/com/java/training/spring/spring_demo/
+src/main/java/com/java/training/spring/demo/
 ├── model/
 │   └── User.java                    # User entity model
 ├── service/

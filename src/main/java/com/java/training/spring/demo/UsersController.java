@@ -1,4 +1,4 @@
-package com.java.training.spring.spring_demo;
+package com.java.training.spring.demo;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

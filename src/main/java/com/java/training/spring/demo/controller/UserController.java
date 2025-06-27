@@ -1,7 +1,7 @@
-package com.java.training.spring.spring_demo.controller;
+package com.java.training.spring.demo.controller;
 
-import com.java.training.spring.spring_demo.model.User;
-import com.java.training.spring.spring_demo.service.UserService;
+import com.java.training.spring.demo.model.User;
+import com.java.training.spring.demo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
